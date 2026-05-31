@@ -521,19 +521,10 @@ This project encountered and resolved the exact issues that ML Engineers navigat
 
 ---
 
-## Learning Reflection
-
-A comprehensive technical reflection covering all ML/MLOps/People Science concepts implemented in this project is available at [`docs/Learning_Reflection_People_Analytics.docx`](docs/Learning_Reflection_People_Analytics.docx).
-
-Topics covered: BigQuery ML architecture decisions · regularisation theory · threshold calibration · FAANG feature engineering methodology · Pydantic v2 migration patterns · cost optimisation · Looker Studio vs Power BI trade-offs · what to build next.
-
----
-
 ## License
 
 MIT — see [LICENSE](LICENSE)
 
 ---
 
-*People Analytics Intelligence Engine · Ahmed Raza · 2026*
 *Live: https://people-analytics-api-831718383093.us-central1.run.app*
