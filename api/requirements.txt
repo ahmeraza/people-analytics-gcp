@@ -1,0 +1,6 @@
+# api/requirements.txt
+fastapi==0.111.0
+uvicorn[standard]==0.30.1
+pydantic==2.7.4
+google-cloud-aiplatform==1.57.0
+google-auth==2.30.0
